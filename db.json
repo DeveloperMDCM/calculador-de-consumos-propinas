@@ -1,0 +1,88 @@
+{
+    "platillos": [
+      {
+        "id": 1,
+        "nombre": "Desgranado Texas",
+        "precio": 16000,
+        "imagen": "./img/Desgranado Texas.jpg",
+        "categoria": 1
+      },
+      {
+        "id": 2,
+        "nombre": "Hamburguesa del Lab",
+        "precio": 15000,
+        "imagen": "./img/Hamburguesa del Lab.jpg",
+        "categoria": 1
+      },
+      {
+        "id": 3,
+        "nombre": "Postre de Chocolate",
+        "precio": 5000,
+        "imagen": "./img/Postre de Chocolate.jpg",
+        "categoria": 3
+      },
+      {
+        "id": 4,
+        "nombre": "Postre 3 Leches",
+        "precio": 6000,
+        "imagen": "./img/Postre 3 Leches.jpg",
+        "categoria": 3
+      },
+      {
+        "id": 5,
+        "nombre": "Juego Natural",
+        "precio": 3500,
+        "imagen": "./img/Jugo Natural.jpg",
+        "categoria": 2
+      },
+      {
+        "id": 6,
+        "nombre": "Salchipapa Joe",
+        "precio": 13000,
+        "imagen": "./img/Salchipapa Joe.jpg",
+        "categoria": 1
+      },
+      {
+        "id": 7,
+        "nombre": "Perro Filet",
+        "precio": 7000,
+        "imagen": "./img/Perro Filet.jpg",
+        "categoria": 1
+      },
+      {
+        "id": 8,
+        "nombre": "Jugo de Naranja",
+        "precio": 4000,
+        "imagen": "./img/Jugo de Naranja.jpg",
+        "categoria": 2
+      },
+      {
+        "id": 9,
+        "nombre": "Juego de Mandarina",
+        "precio": 40,
+        "imagen": "./img/Jugo de Mandarina.jpg",
+        "categoria": 2
+      },
+      {
+        "id": 10,
+        "nombre": "Rebanada de Pay de Queso",
+        "precio": 30,
+        "imagen": "./img/Postre de Gelatina.jpg",
+        "categoria": 3
+      },
+      {
+        "id": 11,
+        "nombre": "Gaseosa Coca Cola",
+        "precio": 20,
+        "imagen": "./img/Gaseosa Coca Cola.jpg",
+        "categoria": 2
+      },
+      {
+        "id": 12,
+        "nombre": "Gaseosa de Manzana",
+        "precio": 40,
+        "imagen": "./img/Gaseosa de Manzana.jpg",
+        "categoria": 2
+      }
+    ]
+  }
